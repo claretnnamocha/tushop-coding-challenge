@@ -1,0 +1,13 @@
+Number of employees: 3
+Goodies and Prices:
+Smart Watch: 15000
+Bluetooth Speaker: 4500
+Laptop: 55000
+Tablet: 20000
+Headphones: 3000
+Smartphone: 40000
+Gaming Console: 35000
+Camera: 25000
+Printer: 8000
+Monitor: 12000
+Keyboard: 2000

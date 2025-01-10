@@ -1,0 +1,13 @@
+Number of employees: 5
+Goodies and Prices:
+Electric Kettle: 2500
+Air Purifier: 15000
+Vacuum Cleaner: 8000
+Smart TV: 45000
+Home Theater: 30000
+Refrigerator: 35000
+Washing Machine: 20000
+Dishwasher: 25000
+Microwave: 10000
+Blender: 5000
+Coffee Maker: 7000

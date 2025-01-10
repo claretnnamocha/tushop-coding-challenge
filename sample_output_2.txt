@@ -1,0 +1,8 @@
+The goodies selected for distribution are:
+Electric Kettle: 2500
+Blender: 5000
+Coffee Maker: 7000
+Vacuum Cleaner: 8000
+Microwave: 10000
+
+And the difference between the chosen goodie with highest price and the lowest price is 7500

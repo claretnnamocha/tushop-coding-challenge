@@ -1,0 +1,6 @@
+The goodies selected for distribution are:
+Keyboard: 2000
+Headphones: 3000
+Bluetooth Speaker: 4500
+
+And the difference between the chosen goodie with highest price and the lowest price is 2500
